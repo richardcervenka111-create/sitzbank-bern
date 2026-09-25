@@ -23,3 +23,7 @@ OpenStreetMap ist so gut wie die Leute, die es pflegen. Fehlt ein Punkt oder sti
 ## Lizenz
 
 Code MIT. Daten ODbL (OpenStreetMap).
+
+## Banknamen
+
+Wer eine Bank kennt, kann ihr im Popup einen Namen geben („Bank benennen“, 2 bis 40 Zeichen, keine Links). Der Name ist danach für alle sichtbar. Gespeichert wird nur OSM-Knoten-ID und Name, ohne Konto und ohne Standort, in einer Supabase-Tabelle (`bench_names`, Region EU); pro Bank gilt der erste Name, ändern oder löschen geht nur über die Datenbank. Der Schlüssel in `index.html` ist ein öffentlicher Publishable Key mit Lese- und Einfügerecht, mehr erlaubt die Datenbank nicht.
