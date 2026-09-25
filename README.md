@@ -4,7 +4,7 @@ Wer 80 ist, schwanger, verletzt oder Schmerzen hat, plant den Weg nach den Bänk
 
 Live: **https://richardcervenka111-create.github.io/sitzbank-bern/**
 
-Drei Sprachen (DE/EN/SK), „nächster Punkt“ mit Fussroute, kein Tracking, Standort bleibt im Gerät.
+Zwei Sprachen (DE/EN), „nächster Punkt“ mit Fussroute, kein Tracking, Standort bleibt im Gerät.
 
 ## Daten
 
